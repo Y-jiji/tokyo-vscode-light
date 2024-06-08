@@ -1,6 +1,7 @@
 {
 	"name": "Tokyo (Light)",
 	"type": "light",
+	"semanticHighlighting": true,
 	"colors": {
 		"editor.background": "#ffffff",
 		"editor.foreground": "#24292e",
